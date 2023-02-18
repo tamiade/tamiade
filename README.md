@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Tami</h1>
-- 😄 Pronouns: She/Her
 <h3 align="center">A passionate full-stack software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamiade" alt="tamiade" /></a> </p>
 
+- 😄 Pronouns: She/Her
 - 🌱 I’m currently learning **full-stack web development at Ada Developers Academy, intensive, highly selective, and rigorous coding school that prepares women and gender expansive adults to be software developers while advocating for inclusive and equitable work environments.**
 
 <h3 align="left">Connect with me:</h3>
