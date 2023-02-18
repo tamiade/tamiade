@@ -4,7 +4,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">😄 Pronouns: She/Her</p>
-<p align="left">🌱 I’m currently learning full-stack web development at Ada Developers Academy, an intensive, highly selective, and rigorous coding school that prepares women and gender expansive adults to be software developers while advocating for inclusive and equitable work environments.</p>
+<p align="left">🏫 I’m currently learning full-stack web development at Ada Developers Academy, an intensive, highly selective, and rigorous coding school that prepares women and gender expansive adults to be software developers while advocating for inclusive and equitable work environments.</p>
 <p align="left">👩🏾‍🎓 The 6-month long classroom portion of the Ada program is split into three units focusing on programming fundamentals, backend development, and frontend development. Learning is supplemented through daily readings, problem sets, algorithm exercises, projects, and a three-week capstone project.</p>
 <p align="left">👩🏾‍💻 After the classroom portion of the program, Adies (Ada Developers Academy students) transition to a 5-month paid internship at a sponsoring comapnay partner.</p>
 
