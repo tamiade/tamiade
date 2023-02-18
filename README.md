@@ -4,7 +4,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">😄 Pronouns: She/Her</p>
-<p align="left">🌱 I’m currently learning **full-stack web development at Ada Developers Academy, an intensive, highly selective, and rigorous coding school that prepares women and gender expansive adults to be software developers while advocating for inclusive and equitable work environments.</p>
+<p align="left">🌱 I’m currently learning full-stack web development at Ada Developers Academy, an intensive, highly selective, and rigorous coding school that prepares women and gender expansive adults to be software developers while advocating for inclusive and equitable work environments.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
