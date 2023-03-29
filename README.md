@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tami</h1>
-<h3 align="center">A passionate full-stack software developer</h3>
+<h3 align="center">A productive full-stack software developer</h3>
 
 
 <h3 align="left">About Me:</h3>
